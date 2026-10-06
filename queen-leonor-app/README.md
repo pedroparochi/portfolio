@@ -16,7 +16,22 @@ Queen Leonor was a queen of Portugal and the founder of the Caldas da Rainha the
 - **Language switch:** available in Portuguese and English
 
 ## Screenshots
-(images/home.png)
+
+| Home | Biography | Timeline | Gallery |
+|:----:|:---------:|:--------:|:-------:|
+| ![Home](images/home.jpg) | ![Biography](images/bio.jpg) | ![Timeline](images/timeline.jpg) | ![Gallery](images/gallery.jpg) |
+
+| Gallery (full view) | Map of places | Map with route | Place details |
+|:-------------------:|:-------------:|:--------------:|:-------------:|
+| ![Gallery full view](images/gallery2.jpg) | ![Map](images/map.jpg) | ![Map with route](images/map2.jpg) | ![Place details](images/map_bio.jpg) |
+
+| Curiosities | Quiz | Quiz answer | Quiz result |
+|:-----------:|:----:|:-----------:|:-----------:|
+| ![Curiosities](images/cur.jpg) | ![Quiz](images/quiz.jpg) | ![Quiz answer](images/quiz2.jpg) | ![Quiz result](images/quiz3.jpg) |
+
+| Menu | Language selection |
+|:----:|:------------------:|
+| ![Menu](images/menu.jpg) | ![Language selection](images/lang.jpg) |
 
 ## Built with
 - **Kotlin**
